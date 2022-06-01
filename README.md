@@ -69,7 +69,13 @@ In further analysis of the  election data shows:
 ## Election-Audit Summary
 
 To summarize, the use of the data set together with the python script is a much more efficient way to visualize the information. With the script created during this project we can easily reuse for any other elections simply by adding a different data set. 
+
+![Import File](Resources/import_file.png)
+
 The .csv file can be the information of any district or county and the script will show all the different candidates and counties as well as the votes each received by going through the loops and adding each different name to a list.
+
+![For Loops to add to list](Resources/for_loop_lists.png)
+
 Another modification we can do is to show further information on the winner. Such as, from where they received their votes; which county supports them the most, and so on.
 
 

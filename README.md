@@ -17,7 +17,9 @@ A Colorado Board of Elections employee has given us the following tasks to compl
 ## Summary
 
 The analysis of the election shows that:
+
 - There were 369,711 votes cast in the election.
+
 - The candidates were:
     - Charles Casper Stockham
     - Diana DeGette
@@ -29,7 +31,7 @@ The analysis of the election shows that:
 - The winner of the election was:
     - Diana DeGette: received 73.8% of the votes. (272,892)
 
-## Challenge Overview
+## Challenge - Overview of Election Audit
 
 The Colorado Board of Elections employee has asked for additional data to complete the audit:
 
@@ -39,8 +41,10 @@ The Colorado Board of Elections employee has asked for additional data to comple
 
 ## Election-Audit Results
 
-In further analysis of the  election data shows"
-- There were 369,711 votes cast for the congressional election.
+In further analysis of the  election data shows: 
+
+- There were a total of 369,711 votes cast for the congressional election.
+
 - The counties included in the election were:
     - Jefferson
     - Denver
@@ -64,7 +68,9 @@ In further analysis of the  election data shows"
 
 ## Election-Audit Summary
 
-To summarize, the use of the data set together with the python script is a much more efficient way to visualize the information. With the script created during this project we can easily reuse for any other elections. One example is with the information you are inputting into the script, the .csv file can be the information of any district or county and the script will show all the different candidates and counties as well as the votes each received. Another modification we can do is to show further information on the winner. Like, from where they received their votes; which county supports them the most, and so on.
+To summarize, the use of the data set together with the python script is a much more efficient way to visualize the information. With the script created during this project we can easily reuse for any other elections simply by adding a different data set. 
+The .csv file can be the information of any district or county and the script will show all the different candidates and counties as well as the votes each received by going through the loops and adding each different name to a list.
+Another modification we can do is to show further information on the winner. Such as, from where they received their votes; which county supports them the most, and so on.
 
 
 

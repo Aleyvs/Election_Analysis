@@ -66,4 +66,8 @@ In further analysis of the  election data shows"
 
 
 ## Election-Audit Summary
-In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections.
+
+
+To sumarise, the use of the data set together with the python script is a much more eficient way to visualize the information. With the script created during this project we can easily reuse for any other elections. One example is with the information you are inputing into the script, the .csv file can be the information of any district or county and the script will show all the different candidates and counties as well as the votes each refeived. Another modification we can do is to show further information on the winner. Like, from where they received their votes; which county supports them the most, and so on.
+
+
